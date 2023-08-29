@@ -49,3 +49,44 @@ play again? (Y/N)
 N
 thanks for playing
 ```
+
+## 3. tic_tac_toe_computer_vs_computer
+```
+[[0 0 0]
+ [0 0 0]
+ [0 0 0]]
+Board after 1 move
+[[0 0 0]
+ [0 0 0]
+ [1 0 0]]
+Board after 2 move
+[[0 0 0]
+ [0 0 0]
+ [1 0 2]]
+Board after 3 move
+[[0 0 0]
+ [1 0 0]
+ [1 0 2]]
+Board after 4 move
+[[2 0 0]
+ [1 0 0]
+ [1 0 2]]
+Board after 5 move
+[[2 0 1]
+ [1 0 0]
+ [1 0 2]]
+Board after 6 move
+[[2 0 1]
+ [1 0 0]
+ [1 2 2]]
+Board after 7 move
+[[2 0 1]
+ [1 0 1]
+ [1 2 2]]
+Board after 8 move
+[[2 0 1]
+ [1 2 1]
+ [1 2 2]]
+Winner is: 2
+```
+
