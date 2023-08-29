@@ -64,7 +64,7 @@ while True:
 	#result
 	if result == 'DRAW':
 		print("<== Its a tie ==>")
-	if result == choice_name:
+	elif result == choice_name:
 		print("<== User wins ==>")
 	else:
 		print("<== Computer wins ==>")
